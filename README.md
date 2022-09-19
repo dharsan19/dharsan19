@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <div display="flex">
   <img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" />
   <img src="https://img.shields.io/badge/APPLE%20M2-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=White">
-  <img src="https://img.shields.io/badge/-ONEPLUS-F5010C?logo=OnePlus&logoColor=White&style=plastic" />
   <img src="https://img.shields.io/badge/ONEPLUS-%23F5010C.svg?&style=for-the-badge&logo=OnePlus&logoColor=White">
+  <img src="https://img.shields.io/badge/-ONEPLUS-F5010C?logo=OnePlus&logoColor=White&style=plastic" />
 </div>
 <br>
 <div display="flex">
