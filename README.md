@@ -3,8 +3,8 @@
 <!-- <p><img src="assets/helloworld.png"></p> -->
 
 
-<a href="#"><img width="50%" src="assets/intro_banner.png" /></a>
-<a href="#"><img width="50%" align="left" src="assets/codinglub.gif" /></a>
+<a href="#"><img width="50%" align="left" src="assets/intro_banner.png" /></a>
+<a href="#"><img width="50%" align="right" src="assets/codinglub.gif" /></a>
 
 
 ## My Machine <img src="assets/peachu.gif" width="35">:
