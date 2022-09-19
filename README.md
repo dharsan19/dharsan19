@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 ### My Machine:
 <div display="flex">
   <img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" />
-  <img src="https://img.shields.io/badge/-APPLE%20M2-000000?logo=apple&logoColor=White&style=plastic">
+  <img src="https://img.shields.io/badge/APPLE%20M2-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=White">
   <img src="https://img.shields.io/badge/-ONEPLUS-F5010C?logo=OnePlus&logoColor=White&style=plastic" />
 </div>
 <br>
-<div display="flex" height="30">
+<div display="flex">
   <img src="https://img.shields.io/badge/-WINDOWS-0078D6?logo=Windows&logoColor=White&style=plastic" />
-  <img src="https://img.shields.io/badge/REPUBLIC%20OF%20GAMERS-%23FF0029.svg?&style=for-the-badge&style=plastic&logo=Republic-of-Gamers&logoColor=White">
+  <img src="https://img.shields.io/badge/REPUBLIC%20OF%20GAMERS-%23FF0029.svg?&style=for-the-badge&logo=Republic-of-Gamers&logoColor=White">
   <img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1060-%2376B900.svg?&style=for-the-badge&logo=nvidia logoColor=white" />
 </div>
