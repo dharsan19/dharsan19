@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p align="center">Hello World <img src="assets/hi.gif" width="25"> I'm Dharsan</p>
 
 <!--
 **dharsan19/dharsan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
