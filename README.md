@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 # <p align="center">Hello, World!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Dharsan<img src="assets/spidertocat.png" width="40"></p>
 <p><img src="assets/helloworld.png"></p>
 
-<img width="49%%" align="left" alt="intro" src="assets/intro.png" />
-<img width="49%" align="right" alt="coding" src="assets/codinglub.webp" />
+<p>
+<img width="49%" align="left" alt="intro" src="assets/intro.png" /> </p>
+<p><img width="49%" align="right" alt="coding" src="assets/codinglub.webp" /></p>
 <br>
 
 ## My Machine <img src="assets/peachu.gif" width="35">:
