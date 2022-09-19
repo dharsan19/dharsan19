@@ -17,26 +17,8 @@ Here are some ideas to get you started:
 
 <img width="49%%" align="left" alt="intro" src="assets/intro.png" />
 <img width="49%" align="right" alt="coding" src="assets/codinglub.webp" />
-<!-- ❥ Pronouns: "He" | "Him"
+<br>
 
-❥ CSE Student @SRMIST
-
-❥ PC Building Enthusiastic
-
-  while (alive)
-
-  {
-      eat();🍰
-
-      sleep();🛌
-
-      code();👨🏻‍💻
-
-      repeat();🔁
-  } -->
-
-  <br>
-  
 ## My Machine <img src="assets/peachu.gif" width="35">:
 <div display="flex">
   <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-space-grey-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" /></a>
