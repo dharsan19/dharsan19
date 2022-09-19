@@ -2,7 +2,7 @@
 
 <p><img src="assets/helloworld.png"></p>
 
-<div>
+<div display="flex">
 <img width="49%" align="left" alt="intro" src="assets/intro.png" /> </p>
 <img width="49%" align="right" alt="coding" src="assets/codinglub.webp" />
 </div>
