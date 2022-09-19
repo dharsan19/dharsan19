@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### My Machine:
 <div display="flex">
-  <img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" />
-  <img src="https://img.shields.io/badge/APPLE%20M2-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=White">
-  <img src="https://img.shields.io/badge/ONEPLUS-%23F5010C.svg?&style=for-the-badge&logo=OnePlus&logoColor=White">
+  <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-space-grey-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" /></a>
+  <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-space-grey-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/APPLE%20M2-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=White"></a>
+  <a href="https://www.oneplus.in/nord-specs"><img src="https://img.shields.io/badge/ONEPLUS-%23F5010C.svg?&style=for-the-badge&logo=OnePlus&logoColor=White"></a>
 <br>
 <div display="flex">
   <img src="https://img.shields.io/badge/WINDOWS-%230078D6.svg?&logo=Windows&logoColor=White&style=for-the-badge" />
