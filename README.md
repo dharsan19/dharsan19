@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-ONEPLUS-F5010C?logo=OnePlus&logoColor=White&style=plastic" />
 </div>
 <br>
-<div display="flex">
+<div display="flex" height="30">
   <img src="https://img.shields.io/badge/-WINDOWS-0078D6?logo=Windows&logoColor=White&style=plastic" />
   <img src="https://img.shields.io/badge/REPUBLIC%20OF%20GAMERS-%23FF0029.svg?&style=for-the-badge&style=plastic&logo=Republic-of-Gamers&logoColor=White">
   <img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
