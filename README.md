@@ -2,9 +2,10 @@
 
 <p><img src="assets/helloworld.png"></p>
 
-<p>
+<div>
 <img width="49%" align="left" alt="intro" src="assets/intro.png" /> </p>
-<p><img width="49%" align="right" alt="coding" src="assets/codinglub.webp" /></p>
+<img width="49%" align="right" alt="coding" src="assets/codinglub.webp" />
+</div>
 
 ## My Machine <img src="assets/peachu.gif" width="35">:
 <div display="flex">
