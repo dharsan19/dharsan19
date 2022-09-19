@@ -29,11 +29,12 @@ Here are some ideas to get you started:
       sleep();🛌
 
       code();👨🏻‍💻
-      
+
       repeat();🔁
   }
 
   <br>
+  
 ## My Machine <img src="assets/peachu.gif" width="35">:
 <div display="flex">
   <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-space-grey-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" /></a>
