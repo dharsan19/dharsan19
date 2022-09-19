@@ -13,10 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <p align="center">Hello, World!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Dharsan<img src="assets/spidertocat.png" width="40"></p>
-<p>
-    <img src="assets/helloworld.png">
-</p>
-
+<p><img src="assets/helloworld.png"></p>
+<img width="55%" align="right" alt="coding" src="assets/codinglub.webp" />
+❥ Pronouns: "He" | "Him"
+❥ CSE Student @SRMIST
+❥ PC Building Enthusiastic
+  while (alive)
+  {
+      eat();🍰
+      sleep();🛌
+      code();👨🏻‍💻
+      repeat();🔁
+  }
 ## My Machine <img src="assets/peachu.gif" width="35">:
 <div display="flex">
   <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-space-grey-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" /></a>
