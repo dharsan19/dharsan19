@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### My Machine:
 <div display="flex">
-  <img src="https://img.shields.io/badge/-MAC%20OS-000000?logo=macOS&logoColor=White&style=plastic" />
+  <img src="https://img.shields.io/badge/-MAC%20OS-000000?logo=macOS&logoColor=White&style=or-the-badge" />
   <img src="https://img.shields.io/badge/-APPLE%20M2-000000?logo=apple&logoColor=White&style=plastic">
   <img src="https://img.shields.io/badge/-ONEPLUS-F5010C?logo=OnePlus&logoColor=White&style=plastic" />
 </div>
