@@ -1,5 +1,7 @@
 # <p align="center">Hello, World!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Dharsan<img src="assets/spidertocat.png" width="40"></p>
 
+<img align='right' vspace = "196px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+
 ```php
 namespace Dharsan;
 class About extends Me
@@ -10,7 +12,7 @@ class About extends Me
             'Pronouns' => [ 'He' | 'Him' ] 😎
                 'CSE Student' => [ 'SRMIST' ] 👨🏻‍💻
                     'Hobby' => [ 'PC Building Enthusiast' ] 🛠        
-            ]
+            ];
     }
     public function Quote()
     {
@@ -22,17 +24,13 @@ class About extends Me
               'Code(👨🏻‍💻);'
               'Repeat(🔁);'
             }
-        ]
-    }
-    public function getFutureGoal()
-    {
-        return 'To contribute to open source...';
+        ];
     }
 }
 ```
 <br>
 
-<p  align="center" ><img src="assets/codinglub.gif"/></p>
+<!-- <p  align="center" ><img src="assets/codinglub.gif"/></p> -->
 
 ## My Machine <img src="assets/peachu.gif" width="35">:
 <div>
