@@ -1,13 +1,38 @@
 # <p align="center">Hello, World!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Dharsan<img src="assets/spidertocat.png" width="40"></p>
 
-<!-- <p><img src="assets/helloworld.png"></p> -->
-
-<p align="center">
-<a href="#"><img width="40%" height="400px" align="left" src="assets/intro_banner.png"/></a>
-<a href="#"><img width="56%" height="400px" align="right" src="assets/codinglub.gif"/></a>
-</p>
-
+```php
+namespace Dharsan;
+class About extends Me
+{
+    public function AboutMe()
+    {
+        return [
+            'Pronouns' => [ 'He' | 'Him' ] 😎
+                'CSE Student' => [ 'SRMIST' ] 👨🏻‍💻
+                    'Hobby' => [ 'PC Building Enthusiast' ] 🛠        
+            ]
+    }
+    public function Quote()
+    {
+        return [
+            While (Alive)
+            {
+              'Eat(🍰);'
+              'Sleep(🛌);'
+              'Code(👨🏻‍💻);'
+              'Repeat(🔁);'
+            }
+        ]
+    }
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source...';
+    }
+}
+```
 <br>
+
+<p  align="center" ><img src="assets/codinglub.gif"/></p>
 
 ## My Machine <img src="assets/peachu.gif" width="35">:
 <div>
