@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
-```javascript
+```php
 namespace Dharsan;
 class About extends Me
 {
