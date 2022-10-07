@@ -1,6 +1,8 @@
 # <p align="center">Hello, World!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Dharsan <img src="https://c.tenor.com/hdKETn79a68AAAAj/pacman.gif" width="40"></p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+<p  align="center" ><img src="https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png"/></p>
+
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
 
 ```php
 namespace Dharsan;
@@ -26,7 +28,7 @@ class About extends Me
 ```
 <br>
 
-<!-- <p  align="center" ><img src="assets/codinglub.gif"/></p> -->
+
 
 ## My Machine <img src="assets/peachu.gif" width="35">:
 <div>
