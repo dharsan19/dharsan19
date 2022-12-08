@@ -47,3 +47,4 @@ class About extends Me
 <br/>
 
 ## Spotify Playing 🎧
+[<img src="https://spotify-github-readme-dharsan19.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>](https://open.spotify.com/user/31nr5h3dqble5tqjszkj5nsl52be)
