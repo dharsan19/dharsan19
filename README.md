@@ -45,3 +45,5 @@ class About extends Me
   <a href="https://www.asus.com/supportonly/GL502VM/HelpDesk_Download/"><img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1060-%2376B900.svg?&style=for-the-badge&logo=nvidia logoColor=white" /></a>
 </div>
 <br/>
+
+## Spotify Playing 🎧
