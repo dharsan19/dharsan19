@@ -13,8 +13,8 @@ jobs:
       - uses: vnphanquang/monkeytype-readme@main
         with:
           monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
-          mode: 'words'
-          mode2: '50'
+          mode: 'time'
+          mode2: '30'
           style: 'for-the-badge'
           logoVariant: 'one'
           label: 'monkeytype'
