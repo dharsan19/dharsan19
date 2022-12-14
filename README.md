@@ -49,7 +49,7 @@ class About extends Me
  ## MY ACTIVITY GRAPH 📐 :
 <!--  ![Github Activity Graph](https://github-readme-activity-graph.dharsan19.repl.co/graph?username=dharsan19&theme=react-dark) -->
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&theme=react-dark)
-![monkeytype.badge]
+![!monkeytype.badge]
     
 <!-- Spotify NowPlaying -->
 ## Spotify Playing 🎧 :
