@@ -46,11 +46,11 @@ class About extends Me
 </div>
 <br/>
 
- ## MY ACTIVITY GRAPH
+ ## MY ACTIVITY GRAPH 📐 :
 <!--  ![Github Activity Graph](https://github-readme-activity-graph.dharsan19.repl.co/graph?username=dharsan19&theme=react-dark) -->
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&theme=react-dark)
     
     
 <!-- Spotify NowPlaying -->
-## Spotify Playing 🎧
+## Spotify Playing 🎧 :
 [<img src="https://spotify-github-readme-dharsan19.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>](https://open.spotify.com/user/31nr5h3dqble5tqjszkj5nsl52be)
