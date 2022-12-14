@@ -49,8 +49,12 @@ class About extends Me
  ## MY ACTIVITY GRAPH 📐 :
 <!--  ![Github Activity Graph](https://github-readme-activity-graph.dharsan19.repl.co/graph?username=dharsan19&theme=react-dark) -->
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&theme=react-dark)
-    
+[![monkeytype.badge]][monkeytype]
     
 <!-- Spotify NowPlaying -->
 ## Spotify Playing 🎧 :
 [<img src="https://spotify-github-readme-dharsan19.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>](https://open.spotify.com/user/31nr5h3dqble5tqjszkj5nsl52be)
+
+
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+[monkeytype]: https://monkeytype.com/
