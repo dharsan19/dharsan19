@@ -47,7 +47,8 @@ class About extends Me
 <br/>
 
  ## MY ACTIVITY GRAPH
- ![Github Activity Graph](https://github-readme-activity-graph.dharsan19.repl.co/graph?username=dharsan19&theme=react-dark)
+<!--  ![Github Activity Graph](https://github-readme-activity-graph.dharsan19.repl.co/graph?username=dharsan19&theme=react-dark) -->
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
     
     
 <!-- Spotify NowPlaying -->
