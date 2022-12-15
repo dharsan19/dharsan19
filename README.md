@@ -29,14 +29,14 @@ class About extends Me
 
 
  ## MY STATS 📊 :
+ <!-- MONKEYTYPE STAT -->
+ ![monkeytype.badge]
+ 
+ <!-- ACTIVITY GRAPH -->
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&theme=react-dark)
-![monkeytype.badge]
-    
-<!-- Spotify NowPlaying -->
-## Spotify Playing 🎧 :
-[<img src="https://spotify-github-readme-dharsan19.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>](https://open.spotify.com/user/31nr5h3dqble5tqjszkj5nsl52be)
 
-## My Machine <img src="assets/peachu.gif" width="35">:
+
+ ## My Machine <img src="assets/peachu.gif" width="35">:
 <div>
   <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-silver-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" /></a>
   <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-silver-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/APPLE%20M2-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=White"></a>
@@ -54,5 +54,10 @@ class About extends Me
   <a href="https://www.asus.com/supportonly/GL502VM/HelpDesk_Download/"><img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1060-%2376B900.svg?&style=for-the-badge&logo=nvidia logoColor=white" /></a>
 </div>
 <br/>
+    
+<!-- Spotify NowPlaying -->
+## Spotify Playing 🎧 :
+[<img src="https://spotify-github-readme-dharsan19.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>](https://open.spotify.com/user/31nr5h3dqble5tqjszkj5nsl52be)
+
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D71wpm%26label%3Dmonkeytype%26logoVariant%3Done
