@@ -32,6 +32,9 @@ class About extends Me
  <!-- MONKEYTYPE STAT -->
  ![monkeytype.badge]
  
+ <!-- GITHUB STREAK -->
+ ![GitHub Streak](https://streak-stats.demolab.com?user=dharsan19&theme=react&date_format=M%20j%5B%2C%20Y%5D)
+ 
  <!-- ACTIVITY GRAPH -->
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&theme=react-dark)
 
