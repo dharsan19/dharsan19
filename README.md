@@ -37,7 +37,6 @@ class About extends Me
  <!-- ACTIVITY GRAPH -->
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&theme=react-dark)
 
-
  ## My Machines <img src="assets/peachu.gif" width="35">:
 <div>
   <a href="https://www.apple.com/in/shop/buy-mac/macbook-pro/13-inch-silver-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-512gb#"><img src="https://img.shields.io/badge/MAC%20OS-%23000000.svg?&style=for-the-badge&logo=macOS&logoColor=White" /></a>
