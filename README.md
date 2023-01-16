@@ -29,8 +29,7 @@ class About extends Me
 
  ## MY STATS 📊 :
  <!-- MONKEYTYPE STAT -->
- ![monkeytype.badge]  
- [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dharsan_s)
+ ![monkeytype.badge]  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dharsan_s)
  
  
  <!-- GITHUB STREAK -->
@@ -64,6 +63,4 @@ class About extends Me
 ## Spotify Playing 🎧 :
 [<img src="https://spotify-github-readme-dharsan19.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>](https://open.spotify.com/user/31nr5h3dqble5tqjszkj5nsl52be)
 
-https://monkeytype-badge-vhd5lan7mmhz.runkit.sh
-
-<!-- [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D71wpm%26label%3Dmonkeytype%26logoVariant%3Done -->
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D71wpm%26label%3Dmonkeytype%26logoVariant%3Done
