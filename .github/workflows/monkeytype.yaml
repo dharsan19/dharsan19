@@ -23,7 +23,7 @@ jobs:
           mode: 'time'
           mode2: '30'
           # not required with default:
-          style: 'flat' # option from shields.io
+          style: 'for-the-badge' # option from shields.io
           logoVariant: 'one'
           label: 'monkeytype'
   # outputs badge_url should you need to use that in later steps
