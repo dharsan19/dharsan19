@@ -37,7 +37,7 @@ class About extends Me
 ![GitHub Streak](https://streak-stats.demolab.com?user=dharsan19&theme=react&border_radius=8.0&date_format=M%20j%5B%2C%20Y%5D)
  
  <!-- ACTIVITY GRAPH -->
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dharsan19&theme=react-dark&area=true&border_radius=8.0)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharsan19&theme=react-dark&area=true&border_radius=8.0)
 
 <!-- ICONS -->
  ## My Machines <img src="assets/peachu.gif" width="35">:
