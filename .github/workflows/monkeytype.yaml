@@ -1,29 +1,33 @@
-# .github/workflow/monkeytype.yaml
-name: Monkeytype Readme
+name: Update Monkeytype WPM
 
 on:
-  # Runs if triggered manually through github action console
-  workflow_dispatch:
   schedule:
-    # Runs at 00:00 each sunday
-    - cron: '0 6 * * *'
+    - cron: "0 9 * * 1"   # every Monday at 9 AM UTC
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README
+  update-wpm:
     runs-on: ubuntu-latest
-    # it shouldn't take longer than a few minutes
-    # but leave a timeout here in case request hangs
-    timeout-minutes: 10
     steps:
-      - uses: vnphanquang/monkeytype-readme@main
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          # required:
-          monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
-          mode: 'time'
-          mode2: '30'
-          # not required with default:
-          style: 'for-the-badge' # option from shields.io
-          logoVariant: 'one'
-          label: 'monkeytype'
-  # outputs badge_url should you need to use that in later steps
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        env:
+          MONKEYTYPE_API_KEY: ${{ secrets.MONKEYTYPE_API_KEY }}
+        run: python monkeytype_wpm.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.json
+          git commit -m "update Monkeytype WPM" || echo "No changes to commit"
+          git push
