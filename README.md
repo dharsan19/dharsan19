@@ -4,27 +4,21 @@
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
 
-```php
-namespace Dharsan;
-class About extends Me
-{
-    public function AboutMe()
-    {
-            'Pronouns' => [ 'He' | 'Him' ] 😎
-            'CSE Student' => [ '@SRMIST' ] 👨🏻‍💻
-            'Hobby' => [ 'PC Building Enthusiast' ] 🛠        
-    }
-    public function Quote()
-    {
-            While (Alive)
-            {
-              'Eat(🍰);'
-              'Sleep(🛌);'
-              'Code(👨🏻‍💻);'
-              'Repeat(🔁);'
-            }
-    }
-};
+```python
+class AboutMe:
+    def __init__(self):
+        self.pronouns = ["He", "Him"] 😎
+        self.education = ["B.Tech CSE @SRMIST"] 👨🏻‍💻
+        self.code = ["Python 🐍"]
+        self.skills = ["Devops", "IOT"]
+        self.hobbies = ["R&D 🧑‍💻"]
+
+    def quote(self):
+        while True:
+            print("Eat 🍰")
+            print("Sleep 🛌")
+            print("Code 👨🏻‍💻")
+            print("Repeat 🔁")
 ```
 
  ## MY STATS 📊 :
@@ -48,14 +42,15 @@ class About extends Me
 
 <div>
    <a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"</a>
-   <a href="https://www.oneplus.in/nord-specs"><img src="https://img.shields.io/badge/ONEPLUS-%23F5010C.svg?&style=for-the-badge&logo=OnePlus&logoColor=White"></a>
+   <a href="https://in.nothing.tech/products/phone-3a?Colour=Blue&Capacity=8%2B256GB"><img src="https://img.shields.io/badge/Nothing-%23F5010C?&style=for-the-badge"></a>
 </div>
 
 <div>
   <a href="https://www.asus.com/supportonly/GL502VM/HelpDesk_Download/"><img src="https://img.shields.io/badge/WINDOWS-%230078D6.svg?&logo=Windows&logoColor=White&style=for-the-badge" /></a>
   <a href="https://www.asus.com/supportonly/GL502VM/HelpDesk_Download/"><img src="https://img.shields.io/badge/REPUBLIC%20OF%20GAMERS-%23FF0029.svg?&style=for-the-badge&logo=Republic-of-Gamers&logoColor=White"></a>
   <a href="https://www.asus.com/supportonly/GL502VM/HelpDesk_Download/"><img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /></a>
-  <a href="https://www.asus.com/supportonly/GL502VM/HelpDesk_Download/"><img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1060-%2376B900.svg?&style=for-the-badge&logo=nvidia logoColor=white" /></a>
+
+  <a href="https://www.asus.com/supportonly/GL502VM/HelpDesk_Download/"><img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
 </div>
 <br/>
     
