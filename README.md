@@ -30,7 +30,8 @@ class AboutMe:
  
  <!-- GITHUB STREAK -->
 <!--  ![GitHub Streak](https://streak-stats.demolab.com?user=dharsan19&theme=react&date_format=M%20j%5B%2C%20Y%5D) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=dharsan19&theme=react&border_radius=8.0&date_format=M%20j%5B%2C%20Y%5D)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dharsan19&theme=react&border_radius=8.0&date_format=M%20j%5B%2C%20Y%5D) -->
+![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=dharsan19&&theme=react&border_radius=8.0&date_format=M%20j%5B%2C%20Y%5D)
  
  <!-- ACTIVITY GRAPH -->
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharsan19&theme=react-dark&area=true&border_radius=8.0)
